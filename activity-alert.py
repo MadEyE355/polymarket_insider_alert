@@ -1,7 +1,7 @@
 import requests
 import time
 
-check_time = 30  #min
+check_time = 35  #min
 time_now = int(time.time())
 
 msg = ""
@@ -48,4 +48,5 @@ for i in range(0, len(accounts)):
     
         
     
+
 
