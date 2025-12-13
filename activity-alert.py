@@ -20,7 +20,7 @@ accounts = [
     ("openai", "0xdba78eaec18da2455d4b78de38828c2d91f0ae61", "https://polymarket.com/@0xLuck"),
     ("openai", "0x804600942f9044bf4f4ec7f1815b186184e60a1b" , "https://polymarket.com/@Iam100x"),
 
-    ("microstrat" , "0x804600942f9044bf4f4ec7f1815b186184e60a1b" , "https://polymarket.com/@Ktulhuu"),
+    ("microstrat" , "0xe5bd36fc97a0bfc002bd2a8afc7616b1074637e7" , "https://polymarket.com/@Ktulhuu"),
     ("microstrat" , "0xf32898291d309e3c5e499c85ddd03a13268c219c" , "https://polymarket.com/@Ktulhu"),
     ("microstrat" , "0x140a8a23e2cb236ec803ad8a8a7da8d68faec075" , "https://polymarket.com/@v4chan"),
     ("microstrat" , "0x64fe36ebdbd3fbdc84a810b6161049e4e0fbe618" , "https://polymarket.com/@Onegambleisenoughtowin"),
@@ -48,5 +48,6 @@ for i in range(0, len(accounts)):
     
         
     
+
 
 
