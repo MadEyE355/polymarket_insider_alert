@@ -24,3 +24,7 @@ https://polymarket.com/@Onegambleisenoughtowin
 csgo
 https://polymarket.com/@de-pinya?tab=positions
 0xc60970996247ca70c0195972d2850345c69e7b6f
+
+temperature 
+neobrother
+0x6297b93ea37ff92a57fd636410f3b71ebf74517e
