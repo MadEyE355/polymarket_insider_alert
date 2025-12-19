@@ -27,7 +27,7 @@ accounts = [
 
     ("csgo" , "0xc60970996247ca70c0195972d2850345c69e7b6f" , "https://polymarket.com/@de-pinya"),
 
-    ("temperature" , "0x6297b93ea37ff92a57fd636410f3b71ebf74517e" , "https://polymarket.com/@neobrother"
+    ("temperature" , "0x6297b93ea37ff92a57fd636410f3b71ebf74517e" , "https://polymarket.com/@neobrother")
 ]
 
 
@@ -50,6 +50,7 @@ for i in range(0, len(accounts)):
     
         
     
+
 
 
 
